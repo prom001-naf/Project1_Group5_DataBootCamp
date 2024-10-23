@@ -2,7 +2,7 @@
 
 # Housing Trends Ontario 2010-2023
 
-Housing Trends surrounding square footage, bedrooms/bathrooms, affordability of renters and first-time home-owners, most expensive cities for housing with their change over time, and the difference in housing cost for condiminiums, non-detached, semi-detached, and detached homes between 2010 to 2023.
+Housing Trends surrounding square footage, bedrooms/bathrooms, affordability of renters, first-time homebuyers, and repeat homebuyers, most expensive cities for housing with their change over time, and the difference in housing cost for condiminiums, non-detached, semi-detached, and detached homes between 2010 to 2023.
 
 ## Getting Started
 
