@@ -71,8 +71,10 @@ These weak correlations indicate that, in these cities, square footage alone doe
 Conclusion:
 
   •	Kitchener shows a weak positive relationship between square footage and listing price, but the effect is minimal.
+ 
   •	In Guelph and Windsor, square footage shows no meaningful impact on listing price, with correlations even         
     suggesting slight negative relationships.
+ 
   •	These findings suggest that other factors, such as location, property type, or market conditions, are likely 
     playing a larger role in determining listing prices in these cities.
 
