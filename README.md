@@ -77,8 +77,7 @@ Conclusion:
 
 Cities in Focus: Guelph, Toronto, and Kitchener
 
-![Alt Text](Data_Code_Analysis/Screenshot 2024-10-21 221537.png) 
-
+![alt text](https://github.com/prom001-naf/Project1_Group5_DataBootCamp/blob/main/Data_Code_Analysis/Screenshot%202024-10-21%20221537.png?raw=true)
 Major Findings: The correlation values between number of bedrooms (including bathrooms) and listing price show similarly weak relationships. The correlation values are:
   
   •	Overall: 0.0010
