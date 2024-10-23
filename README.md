@@ -1,6 +1,6 @@
 What is the Difference in Affordability for Renters vs. First-Time Homebuyers vs. Repeat Homebuyers?
 
-https://github.com/prom001-naf/Project1_Group5_DataBootCamp/blob/b22e52587e92b8f0b1317e608f9be2dabc358914/project_christine/Resources/employment_histogram.png
+![screenshot_employment](https://github.com/user-attachments/assets/692d63c3-0c4a-4736-a3b3-d2e6e761c511)
 
 Key insights related to affordability:
 1.	First-time homebuyers:
@@ -21,7 +21,7 @@ Affordability Comparison:
 •	Repeat homebuyers appear to have greater affordability, even for those not employed, due to potential financial advantages like equity or better loan terms. Their experience and financial stability make homeownership more accessible to them compared to first-time buyers.
 This comparison highlights how employment status and tenure play a significant role in determining affordability across different housing situations.
 
-https://github.com/prom001-naf/Project1_Group5_DataBootCamp/blob/b22e52587e92b8f0b1317e608f9be2dabc358914/project_christine/Resources/financial_needs_correlation.png
+![screenshot_financial_needs](https://github.com/user-attachments/assets/72798bb2-1511-4bd0-93a5-8878a12ddd36)
 
 Key insights with cost-of-living affordability in mind:
 1.	First-time homebuyers:
