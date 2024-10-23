@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Python Version](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/) [![Made with VSCode](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)](https://code.visualstudio.com/) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Python Version](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/) [![Made with VSCode](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-blue.svg)](https://jupyter.org/) 
 
 # Housing Trends Ontario 2010-2023
 
@@ -16,7 +16,10 @@ Once the python environment is installed, in order to run the code the next step
 
 [Visual Studio Code](https://code.visualstudio.com/)
 
-Install the Python extension for Visual Studio Code, which helps with features like linting, debugging, and IntelliSense.
+Find these under the extensions option inside Visual Studio Code:
+
+  Install the Python extension and Jupyter extension for Visual Studio Code, which helps with features 
+  like linting, debugging, Intellisense
 
 ### Usage
 
