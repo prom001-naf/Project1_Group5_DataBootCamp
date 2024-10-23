@@ -36,7 +36,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Cities in Focus: Guelph, Kitchener, and Windsor
 
-![Alt Text](Data_Code_Analysis/Screenshot 2024-10-21 210650.png) 
+![alt text](https://github.com/prom001-naf/Project1_Group5_DataBootCamp/blob/main/Data_Code_Analysis/Screenshot%202024-10-21%20210650.png?raw=true)
 
 Major Findings: The correlation values between square footage and listing prices for all three cities are unexpectedly close to zero or negative, which suggests that square footage has a weak linear relationship with listing price in these cities. The correlation values are:
 
@@ -78,6 +78,7 @@ Conclusion:
 Cities in Focus: Guelph, Toronto, and Kitchener
 
 ![alt text](https://github.com/prom001-naf/Project1_Group5_DataBootCamp/blob/main/Data_Code_Analysis/Screenshot%202024-10-21%20221537.png?raw=true)
+
 Major Findings: The correlation values between number of bedrooms (including bathrooms) and listing price show similarly weak relationships. The correlation values are:
   
   •	Overall: 0.0010
