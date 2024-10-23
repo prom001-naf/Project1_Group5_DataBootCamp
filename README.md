@@ -195,7 +195,7 @@ Data Analysis:
 
 The analysis aims to identify the most expensive cities in Ontario for housing and to examine how their average house values have changed over time. To achieve this, two visualizations were created: a tree map displaying the relative housing prices across different cities and a line chart illustrating the trend of average house values over specific time periods.
 
-** Tree Map Analysis - The tree map provides a visual representation of the housing market in Ontario, highlighting the most expensive cities based on average house prices. Each city is represented as a square, with the size and color shades corresponding to its average house values.
+*Tree Map Analysis - The tree map provides a visual representation of the housing market in Ontario, highlighting the most expensive cities based on average house prices. Each city is represented as a square, with the size and color shades corresponding to its average house values.
 Key Observations:
 o	Cities such as King, Markham, and Toronto stand out as the most expensive, occupying the largest areas within the tree map. This indicates that they have significantly higher average house prices compared to other cities.
 o	King remains the most prominent city with approximately $1.6 million. Average house sold price, reflecting its status as a major urban center with high pricing for housing.
@@ -204,7 +204,7 @@ o	Some neighborhoods like Brampton and Pickering, represented by lighter shades 
 o	Cities like London, Woodstock, and Belleville are represented by red shades, indicating lower average home sold values compared to the top-tier neighborhoods.
 o	This contrast highlights the significant price differences across various neighborhoods in Ontario.
 
-** Line Chart Analysis - The line chart illustrates the changes in average house values in the top 3 cities over time, providing insights into trends and patterns.
+*Line Chart Analysis - The line chart illustrates the changes in average house values in the top 3 cities over time, providing insights into trends and patterns.
 
 Key Observations:
 o	The line chart indicates a general upward trend in average house values across most cities from 2010 to 2023. This trend suggests a robust demand for housing in Ontario, particularly in urban areas.
