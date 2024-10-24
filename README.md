@@ -199,27 +199,38 @@ The analysis aims to identify the most expensive cities in Ontario for housing a
 The tree map provides a visual representation of the housing market in Ontario, highlighting the most expensive cities based on average house prices. Each city is represented as a square, with the size and color shades corresponding to its average house values.
 
 Key Observations:
+
     o	Cities such as King, Markham, and Toronto stand out as the most expensive, occupying the largest areas within the tree map. This indicates that they have 
       significantly higher average house prices compared to other cities.
+      
     o	King remains the most prominent city with approximately $1.6 million. Average house sold price, reflecting its status as a major urban center with high 
       pricing for housing.
+      
     o	Cities like Markham and Toronto also show substantial average prices, indicating a competitive housing market in those areas.
+    
     o	Some neighborhoods like Brampton and Pickering, represented by lighter shades of blue, have shown an increase in average home sold values over time. This 
       suggests a trend of rising home prices in these areas.
+      
     o	Cities like London, Woodstock, and Belleville are represented by red shades, indicating lower average home sold values compared to the top-tier 
       neighborhoods.
+      
     o	This contrast highlights the significant price differences across various neighborhoods in Ontario.
 
 # Line Chart Analysis 
 he line chart illustrates the changes in average house values in the top 3 cities over time, providing insights into trends and patterns.
 
 Key Observations:
+
     o	The line chart indicates a general upward trend in average house values across most cities from 2010 to 2023. This trend suggests a robust demand for 
       housing in Ontario, particularly in urban areas.
+      
     o	King exhibits the most pronounced increase in average house values, particularly from 2020, which could correlate with economic growth and an influx of 
       residents.
+      
     o	Around 2016-2017, there was a noticeable spike in home prices across all three cities.
+    
     o	Markham and Toronto have similar trends, with prices closely following each other, but both remain below King.
+    
     o	Notably, any periods of stagnation or decline in average house values can also be observed.
 
 # Conclusion of Analysis
