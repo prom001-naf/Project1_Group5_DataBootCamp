@@ -219,6 +219,8 @@ neighborhoods.
 o	This contrast highlights the significant price differences across various neighborhoods in Ontario.
 
 # Line Chart Analysis 
+
+![alt text](https://github.com/prom001-naf/Project1_Group5_DataBootCamp/blob/main/newplot1.png)
 he line chart illustrates the changes in average house values in the top 3 cities over time, providing insights into trends and patterns.
 
 Key Observations:
