@@ -150,7 +150,9 @@ Conclusion:
 
 ### Affordability Comparison:
 •	Renters may experience greater affordability in the short term, especially for those not employed, due to lower upfront costs and flexibility. However, the long-term financial benefits of homeownership (e.g., building equity) are not available to them.
+
 •	First-time homebuyers face the greatest affordability challenges, especially if not employed, due to the need for stable income and high upfront costs.
+
 •	Repeat homebuyers appear to have greater affordability, even for those not employed, due to potential financial advantages like equity or better loan terms. Their experience and financial stability make homeownership more accessible to them compared to first-time buyers.
 
 This comparison highlights how employment status and tenure play a significant role in determining affordability across different housing situations.
