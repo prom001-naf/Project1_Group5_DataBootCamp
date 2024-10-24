@@ -197,7 +197,7 @@ The analysis aims to identify the most expensive cities in Ontario for housing a
 
 # Tree Map Analysis 
 
-![alt text]()
+![alt text](https://github.com/prom001-naf/Project1_Group5_DataBootCamp/blob/main/newplot.png)
 The tree map provides a visual representation of the housing market in Ontario, highlighting the most expensive cities based on average house prices. Each city is represented as a square, with the size and color shades corresponding to its average house values.
 
 Key Observations:
