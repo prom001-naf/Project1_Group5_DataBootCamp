@@ -1,0 +1,25 @@
+﻿REF_DATE,GEO,DGUID,Tenure including first-time homebuyer and social and affordable housing status,Acceptable housing,Statistics,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+2018,Ontario,2021A000235,"Owner household, first-time homebuyer",Does not live in acceptable housing,Percentage of persons,Percent,239,units,0,v1544265750,8.3.1.1,41,,,,1
+2021,Ontario,2021A000235,"Owner household, first-time homebuyer",Does not live in acceptable housing,Percentage of persons,Percent,239,units,0,v1544265750,8.3.1.1,39,,,,1
+2018,Ontario,2021A000235,"Owner household, first-time homebuyer",Does not live in acceptable housing,Number of persons,Number,223,units,0,v1544265753,8.3.1.4,541800,,,,0
+2021,Ontario,2021A000235,"Owner household, first-time homebuyer",Does not live in acceptable housing,Number of persons,Number,223,units,0,v1544265753,8.3.1.4,591300,,,,0
+2018,Ontario,2021A000235,"Owner household, first-time homebuyer",Lives in acceptable housing,Percentage of persons,Percent,239,units,0,v1544265756,8.3.11.1,59,,,,1
+2021,Ontario,2021A000235,"Owner household, first-time homebuyer",Lives in acceptable housing,Percentage of persons,Percent,239,units,0,v1544265756,8.3.11.1,61,,,,1
+2018,Ontario,2021A000235,"Owner household, first-time homebuyer",Lives in acceptable housing,Number of persons,Number,223,units,0,v1544265759,8.3.11.4,773500,,,,0
+2021,Ontario,2021A000235,"Owner household, first-time homebuyer",Lives in acceptable housing,Number of persons,Number,223,units,0,v1544265759,8.3.11.4,929600,,,,0
+2018,Ontario,2021A000235,"Owner household, not first-time homebuyer",Does not live in acceptable housing,Percentage of persons,Percent,239,units,0,v1544265816,8.4.1.1,25,,,,1
+2021,Ontario,2021A000235,"Owner household, not first-time homebuyer",Does not live in acceptable housing,Percentage of persons,Percent,239,units,0,v1544265816,8.4.1.1,24,,,,1
+2018,Ontario,2021A000235,"Owner household, not first-time homebuyer",Does not live in acceptable housing,Number of persons,Number,223,units,0,v1544265819,8.4.1.4,2347700,,,,0
+2021,Ontario,2021A000235,"Owner household, not first-time homebuyer",Does not live in acceptable housing,Number of persons,Number,223,units,0,v1544265819,8.4.1.4,2175800,,,,0
+2018,Ontario,2021A000235,"Owner household, not first-time homebuyer",Lives in acceptable housing,Percentage of persons,Percent,239,units,0,v1544265822,8.4.11.1,75,,,,1
+2021,Ontario,2021A000235,"Owner household, not first-time homebuyer",Lives in acceptable housing,Percentage of persons,Percent,239,units,0,v1544265822,8.4.11.1,76,,,,1
+2018,Ontario,2021A000235,"Owner household, not first-time homebuyer",Lives in acceptable housing,Number of persons,Number,223,units,0,v1544265825,8.4.11.4,7087700,,,,0
+2021,Ontario,2021A000235,"Owner household, not first-time homebuyer",Lives in acceptable housing,Number of persons,Number,223,units,0,v1544265825,8.4.11.4,7073600,,,,0
+2018,Ontario,2021A000235,Renter household,Does not live in acceptable housing,Percentage of persons,Percent,239,units,0,v1544265684,8.5.1.1,52,,,,1
+2021,Ontario,2021A000235,Renter household,Does not live in acceptable housing,Percentage of persons,Percent,239,units,0,v1544265684,8.5.1.1,55,,,,1
+2018,Ontario,2021A000235,Renter household,Does not live in acceptable housing,Number of persons,Number,223,units,0,v1544265687,8.5.1.4,1809700,,,,0
+2021,Ontario,2021A000235,Renter household,Does not live in acceptable housing,Number of persons,Number,223,units,0,v1544265687,8.5.1.4,2086600,,,,0
+2018,Ontario,2021A000235,Renter household,Lives in acceptable housing,Percentage of persons,Percent,239,units,0,v1544265690,8.5.11.1,48,,,,1
+2021,Ontario,2021A000235,Renter household,Lives in acceptable housing,Percentage of persons,Percent,239,units,0,v1544265690,8.5.11.1,45,,,,1
+2018,Ontario,2021A000235,Renter household,Lives in acceptable housing,Number of persons,Number,223,units,0,v1544265693,8.5.11.4,1640300,,,,0
+2021,Ontario,2021A000235,Renter household,Lives in acceptable housing,Number of persons,Number,223,units,0,v1544265693,8.5.11.4,1694700,,,,0
